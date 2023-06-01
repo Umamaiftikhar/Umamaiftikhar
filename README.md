@@ -5,19 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/imumamaiftikhar" target="blank"><img src="https://img.shields.io/twitter/follow/imumamaiftikhar?logo=twitter&style=for-the-badge" alt="imumamaiftikhar" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end Web App projects**
+- 🔭 I’m currently working on **my bachelors degree, working on projects of clients**
 
-- 🌱 I’m currently learning **Web App Frameworks**
+- 🌱 I’m currently learning **dart and Flutter**
 
-- 👯 I’m looking to collaborate on **Back-end projects**
+- 👯 I’m looking to collaborate on **open source**
+
+- 🤝 I’m looking for help with **Web App Frameworks**
 
 - 📝 I regularly write articles on [https://medium.com/@umamaiftikharsiddiqui](https://medium.com/@umamaiftikharsiddiqui)
 
-- 💬 Ask me about **HTML CSS JS PHP**
+- 💬 Ask me about **my soft skills, branding on linkedin**
 
 - 📫 How to reach me **umamaifti@gmail.com**
 
-- ⚡ Fun fact **I use tabs over spaces**
+- ⚡ Fun fact **I laugh a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,4 +43,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umamaiftikhar&show_icons=true&locale=en" alt="umamaiftikhar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umamaiftikhar&" alt="umamaiftikhar" /></p>
-
