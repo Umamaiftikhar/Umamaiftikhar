@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/imumamaiftikhar" target="blank"><img src="https://img.shields.io/twitter/follow/imumamaiftikhar?logo=twitter&style=for-the-badge" alt="imumamaiftikhar" /></a> </p>
 
-- 🔭 I’m currently working on **my bachelors degree, working on projects of clients**
+- 🔭 I’m currently working on **my bachelors degree, building client projects**
 
 - 🌱 I’m currently learning **dart and Flutter**
 
