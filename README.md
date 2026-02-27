@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **umama.iftik@gmail.com**
 
-- ⚡ Fun fact **I laugh a lot**
+- ⚡ Fun fact **can blend logic and emotion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
