@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Umama Iftikhar Siddiqui</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Umama Iftikhar </h1>
+<h3 align="center">Turning Data into Impact, and Logic into Stories | MITx Scholar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umamaiftikhar&label=Profile%20views&color=0e75b6&style=flat" alt="umamaiftikhar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imumamaiftikhar" target="blank"><img src="https://img.shields.io/twitter/follow/imumamaiftikhar?logo=twitter&style=for-the-badge" alt="imumamaiftikhar" /></a> </p>
 
-- 🌱 I’m currently learning **Data & Social Impact | SDG-focused ML Projects**
-- 👯 I’m looking to collaborate on **open source**
-- 🤝 I’m looking for help with **Web App Frameworks**
-
-- 💬 Ask me about **my soft skills, branding on linkedin**
+- 🌱 I’m currently learning **Currently pursuing MicroMasters in SDS (MITx) — selected with an 80% edX scholarship  
+**
+- 👯 I’m looking to collaborate on **on SDG-focused ML & data-driven social impact projects **
+- 🤝 Interested in **Hackathons, Tech communities & Collaborative learning opportunities **
+- 💬 Ask me about **Personal Branding, case studies & soft skills  **
 
 - 📫 How to reach me **umama.iftik@gmail.com**
 
-- ⚡ Fun fact **can blend logic and emotion**
+- ⚡ Fun fact **I blend logic and emotion — a rare combo ✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
