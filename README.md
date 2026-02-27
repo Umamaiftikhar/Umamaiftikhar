@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/imumamaiftikhar" target="blank"><img src="https://img.shields.io/twitter/follow/imumamaiftikhar?logo=twitter&style=for-the-badge" alt="imumamaiftikhar" /></a> </p>
 
-- 🌱 I’m currently learning **Currently pursuing MicroMasters in SDS (MITx) — selected with an 80% edX scholarship  
-**
-- 👯 I’m looking to collaborate on **on SDG-focused ML & data-driven social impact projects **
-- 🤝 Interested in **Hackathons, Tech communities & Collaborative learning opportunities **
-- 💬 Ask me about **Personal Branding, case studies & soft skills  **
+- 🌱 I’m currently learning **Currently pursuing MicroMasters in SDS (MITx) — selected with an 80% edX scholarship**
+- 👯 I’m looking to collaborate on **on SDG-focused ML & data-driven social impact projects**
+- 🤝 Interested in **Hackathons, Tech communities & Collaborative learning opportunities**
+- 💬 Ask me about **Personal Branding, case studies & soft skills**
 
 - 📫 How to reach me **umama.iftik@gmail.com**
 
