@@ -9,11 +9,9 @@
 - 👯 I’m looking to collaborate on **open source**
 - 🤝 I’m looking for help with **Web App Frameworks**
 
-- 📝 I regularly write articles on [https://medium.com/@umamaiftikharsiddiqui](https://medium.com/@umamaiftikharsiddiqui)
-
 - 💬 Ask me about **my soft skills, branding on linkedin**
 
-- 📫 How to reach me **umamaifti@gmail.com**
+- 📫 How to reach me **umama.iftik@gmail.com**
 
 - ⚡ Fun fact **I laugh a lot**
 
