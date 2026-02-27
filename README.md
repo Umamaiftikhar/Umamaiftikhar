@@ -5,12 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/imumamaiftikhar" target="blank"><img src="https://img.shields.io/twitter/follow/imumamaiftikhar?logo=twitter&style=for-the-badge" alt="imumamaiftikhar" /></a> </p>
 
-- 🔭 I’m currently working on **my bachelors degree, building client projects**
-
-- 🌱 I’m currently learning **dart and Flutter**
-
+- 🌱 I’m currently learning **Data & Social Impact | SDG-focused ML Projects**
 - 👯 I’m looking to collaborate on **open source**
-
 - 🤝 I’m looking for help with **Web App Frameworks**
 
 - 📝 I regularly write articles on [https://medium.com/@umamaiftikharsiddiqui](https://medium.com/@umamaiftikharsiddiqui)
